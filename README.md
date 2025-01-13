@@ -1,25 +1,53 @@
-Tech Administrator
-Tech Administrator es un software diseñado para administrar talleres mecánicos. Este sistema consta de una aplicación web para la gestión del taller y una aplicación móvil que permite a los clientes realizar diferentes tareas relacionadas con el mantenimiento de sus vehículos.
-La gestión de talleres mecánicos a menudo enfrenta desafíos relacionados con la organización y la comunicación eficiente entre los administradores, los empleados y los clientes. Algunas de las problemáticas comunes incluyen:
+Tech Administrator: La solución ideal para tu taller mecánico 🚗🔧
 
-Dificultades en la programación de citas: Los clientes suelen tener dificultades para agendar citas de manera eficiente, lo que puede llevar a confusión o a citas mal coordinadas.
-Falta de visibilidad en el progreso del vehículo: Los clientes no tienen acceso en tiempo real al progreso de las reparaciones o mantenimiento de sus vehículos, lo que genera incertidumbre sobre el estado de su servicio.
-Comunicación ineficiente: La comunicación entre los clientes y los empleados del taller puede ser lenta o confusa, lo que lleva a malentendidos sobre los detalles del servicio o reparaciones necesarias.
-Gestión manual del taller: La administración del taller puede volverse compleja y propensa a errores cuando se realiza de forma manual o sin herramientas de seguimiento adecuadas.
-Tech Administrator resuelve estos problemas de la siguiente manera:
+📌 Descripción del Proyecto
 
-Agenda de citas: Permite a los clientes agendar citas de manera rápida y sencilla desde la aplicación móvil, asegurando que se mantenga una programación clara y eficiente.
-Seguimiento del progreso: Los clientes pueden ver en tiempo real el estado de las reparaciones y mantenimiento de sus vehículos, proporcionando transparencia y confianza.
-Chat en vivo: Facilita la comunicación directa y rápida entre clientes y empleados del taller, resolviendo dudas y ofreciendo información relevante de manera eficiente.
-Gestión de taller: Ofrece a los administradores y empleados una plataforma para gestionar todas las citas, reparaciones y tareas pendientes de forma centralizada, optimizando los procesos internos del taller.
-Características
-Agenda de citas: Los clientes pueden agendar sus citas directamente desde la aplicación móvil, eligiendo el día y la hora que más les convenga.
-Seguimiento del progreso: Los clientes pueden ver en tiempo real el estado de su vehículo mientras se encuentra en el taller, con actualizaciones sobre el trabajo realizado.
-Chat en vivo: Los clientes pueden comunicarse con los empleados del taller a través de un chat para resolver cualquier duda o recibir información relevante sobre su vehículo.
-Gestión de taller: Los administradores y empleados del taller tienen acceso a un panel de administración donde pueden ver el historial de citas, gestionar las reparaciones y tareas pendientes, y acceder a información relevante sobre cada vehículo.
-Tecnologías utilizadas
-Backend: Node.js
-Frontend (web):  Angular
-Aplicación móvil:Flutter
-Base de datos:  MySQL
-Autenticación:  JWT
+Tech Administrator es una plataforma innovadora diseñada para optimizar la gestión de talleres mecánicos, integrando herramientas tanto para la administración interna como para la experiencia del cliente.
+
+Con la plataforma web, los administradores del taller podrán gestionar de manera eficiente las operaciones diarias, incluyendo la asignación de tareas, el seguimiento de reparaciones, y la programación de citas. Por otro lado, la aplicación móvil permite a los clientes agendar sus citas fácilmente, visualizar los horarios disponibles y monitorear el progreso de la reparación de sus vehículos en tiempo real.
+
+Con Tech Administrator, podrás:
+
+    Gestionar reparaciones: Asigna tareas a los técnicos y lleva un control detallado de cada servicio.
+    Administrar citas: Organiza los horarios disponibles y optimiza la atención al cliente.
+    Facilitar la interacción con clientes: Proporciona a los clientes actualizaciones sobre el estado de sus vehículos desde la app móvil.
+    Optimizar la organización: Reduce errores y mejora la coordinación interna del taller.
+
+🎯 Problemática
+
+En muchos talleres mecánicos, la falta de herramientas digitales genera desorganización, pérdida de tiempo y dificultad para coordinar la atención al cliente. Los problemas más comunes incluyen:
+
+    Desorganización interna: No se tiene un control eficiente de las tareas asignadas a los técnicos ni del estado de las reparaciones.
+    Citas confusas: Los clientes enfrentan dificultades para agendar y confirmar horarios disponibles.
+    Falta de transparencia: Los clientes desconocen el progreso de las reparaciones, lo que genera insatisfacción.
+
+Tech Administrator resuelve estas problemáticas proporcionando una solución integral que mejora la organización del taller, facilita la programación de citas y brinda transparencia a los clientes.
+
+🌟 Características Principales
+
+    Gestión Centralizada: Administra tareas, reparaciones y citas desde una única plataforma web.
+    Interacción Cliente-Taller: Los clientes pueden agendar citas y dar seguimiento al estado de sus vehículos mediante la app móvil.
+    Organización de Horarios: Presenta los horarios disponibles de forma clara y accesible.
+    Actualizaciones en Tiempo Real: Los clientes reciben notificaciones sobre el avance de las reparaciones.
+    Interfaz Intuitiva: Diseño fácil de usar tanto para los administradores como para los clientes.
+    Optimización del Taller: Mejora la coordinación interna y reduce errores operativos.
+
+🛠 Tecnologías Utilizadas
+
+Plataforma Web
+
+    Frontend:..... 
+    Backend: Node.js con Express.
+    Base de Datos: MySQL
+    Autenticación: JWT
+
+Aplicación Móvil
+
+    Framework: Flutter.
+    Integración: Comunicación en tiempo real con la base de datos del taller.
+
+Integrantes
+
+    Pedro Enrique Rodriguez Cen
+    Jafet de Jesus Sima Moo
+    Adolfo
