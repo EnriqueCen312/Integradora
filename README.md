@@ -50,4 +50,4 @@ Integrantes
 
     Pedro Enrique Rodriguez Cen
     Jafet de Jesus Sima Moo
-    Adolfo
+    Juan Adolfo Poot Balam
