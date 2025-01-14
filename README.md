@@ -45,6 +45,13 @@ Aplicación Móvil
 
     Framework: Flutter.
     Integración: Comunicación en tiempo real con la base de datos del taller.
+Investigacion Figma
+
+    [Framework: Flutter.](https://www.figma.com/design/HSuTEIJGR0k0jOyHhvYo6X/Untitled?node-id=484-1973&t=gEScZEjfwfvBKxsM-1)
+
+Diseño Figma
+
+    [Framework: Flutter.](https://www.figma.com/proto/6aLlJML1O2rR6LZjOfb2N6/Dashboard-UI-Kit---Admin-Template-Dashboard---Admin-Dashboard-(Community)?page-id=0%3A1&node-id=2134-244&p=f&viewport=531%2C292%2C0.05&t=iw6Tq75v3HTVbhrU-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A32)
 
 Integrantes
 
